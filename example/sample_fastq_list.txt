@@ -1,0 +1,6 @@
+SRR11517744	test_input_small/SRR11517744_1.5M.fastq.gz
+SRR11517745	test_input_small/SRR11517745_1.5M.fastq.gz
+SRR11517746	test_input_small/SRR11517746_1.5M.fastq.gz
+SRR11517747	test_input_small/SRR11517747_1.5M.fastq.gz
+SRR11517748	test_input_small/SRR11517748_1.5M.fastq.gz
+SRR11517749	test_input_small/SRR11517749_1.5M.fastq.gz
