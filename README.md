@@ -1,6 +1,9 @@
 # Human RNA-Seq
 RNA-Seq Pipeline designed for human data.
-Code for publication Franch-Arroyo et al. 2024
+Code for publication FKrause, K., Arroyo, S.F. et al. 2025
+
+# Citation
+Krause, K., Arroyo, S.F., Ugolini, M., Kueck, T., Sullivan, T.J., Gálvez, E.J., Muenzner, M., Goosmann, C., Brinkmann, V., Frese, C.K. and Alagesan, K., 2025. Streptococcus pyogenes EVs induce the alternative inflammasome via caspase-4/-5 in human monocytes. EMBO reports, 26(19), p.4847.
 
 # Description
 This repository consists of of two components: 1) the analysis pipeline utilizing bash, Python, and R scripts, generating some visualizations, and 2) a single python script creating the scatter plot of the data as it is shown in the publication. The authors of the first part are Timothy Sullivan and Eric Galvez, the author of the second part is Knut Finstermeier.
@@ -21,7 +24,7 @@ By using this software, you acknowledge and agree to this disclaimer. If you do 
 Last updated: 2024-07-05
 
 ## Copyright:
-Code has been created by Timothy Sullivan, Eric Galvez, and Knut Finstermeier, Max Planck Unit for the Science of Pathogens, Berlin, Germany, member of the Max Planck Society, https://www.mpg.de/en. The code is licensed under the MIT license (see LICENSE file).
+Code has been created by Timothy Sullivan, Eric Galvez, and Knut Finstermeier, Max Planck Unit for the Science of Pathogens, Berlin, Germany, member of the Max Planck Society, https://www.mpg.de/en. The code is licensed under the MPG MPUSP license (see LICENSE file).
 
 
 # Setup
